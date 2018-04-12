@@ -58,10 +58,7 @@ The goal of Milestone 1 was to create the functional requirements for our applic
 
 Mockups for the following four pages were implemented during M1:
 
-<img width="200px" src="images/landing.png"/>
-<img width="200px" src="images/profile.png"/>
-<img width="200px" src="images/directory.png"/>
-<img width="200px" src="images/filter.png"/>
+<img width="200px" src="images/vendor.png"/>
 
 Milestone 1 was implemented as [Grub 'n' Go GitHub Milestone M1]((https://github.com/orgs/internationalhawaiioccupiersprogram/projects/1)::
 
